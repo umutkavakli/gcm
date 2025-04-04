@@ -1,6 +1,6 @@
 # gcm - Git Commit Message Generator
 
-`gcm` is a lightweight Bash function that automatically generates commit messages using an AI model with `ollama`. It provides an interactive prompt to accept, edit, regenerate, or cancel the commit message. You can also specify a different model for message generation. Inspired by Andrej Karpathy's [gist snippet](https://gist.github.com/karpathy/1dd0294ef9567971c1e4348a90d69285).
+`gcm` is a lightweight function that automatically generates commit messages using an LLM models with `ollama`. It provides an interactive prompt to accept, edit, regenerate, or cancel the commit message. You can also specify a different model for message generation. Inspired by Andrej Karpathy's [gist snippet](https://gist.github.com/karpathy/1dd0294ef9567971c1e4348a90d69285).
 
 ## 🚀 Features
 - **AI-powered commit message generation** using `ollama`
