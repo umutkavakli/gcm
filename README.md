@@ -2,13 +2,6 @@
 
 `gcm` is a lightweight function that automatically generates commit messages using an LLM models with `ollama`. It provides an interactive prompt to accept, edit, regenerate, or cancel the commit message. You can also specify a different model for message generation. Inspired by Andrej Karpathy's [gist snippet](https://gist.github.com/karpathy/1dd0294ef9567971c1e4348a90d69285).
 
-## 🚀 Features
-- **AI-powered commit message generation** using `ollama`
-- **Interactive prompt** to accept, edit, or regenerate messages
-- **Custom model selection** with `-m` flag
-- **Fully compatible with Bash**
-
----
 
 ## 📥 Installation
 
@@ -35,7 +28,6 @@ This will:
 - Copy required files to `/usr/local/share/gcm/`
 - Set up an alias in `~/.bashrc` for easy access
 
----
 
 ## 📌 Usage
 
